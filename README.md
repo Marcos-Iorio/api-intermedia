@@ -20,7 +20,8 @@ Para iniciar el programa `npm run dev`
 Consulta a `https://api.mercadolibre.com/sites/MLA/search?q=${id}`
 
 - Resultado
-`{
+```
+{
     “author”: {
         “name”: String
         “lastname”: String
@@ -40,7 +41,8 @@ Consulta a `https://api.mercadolibre.com/sites/MLA/search?q=${id}`
         "sold_quantity", Number
         "description": String
     }
-}`
+}
+```
 
 **Item**
 
@@ -52,7 +54,8 @@ Consulta a `https://api.mercadolibre.com/items/${id}`
 
 - Resultado
 
-`{
+```
+{
     “author”: {
         “name”: String
         “lastname”: String
@@ -72,4 +75,5 @@ Consulta a `https://api.mercadolibre.com/items/${id}`
         "sold_quantity", Number
         "description": String
     }
-}`
+}
+```
