@@ -2,12 +2,14 @@
 Api intermedia básica usando Express y Typescript.
 La api hace llamados a los productos de Mercado Libre según la busqueda y los detalles del producto.
 
-# uso
+# Uso
 
 Clonar el repo: `git clone https://github.com/Marcos-Iorio/api-intermedia.git`
 Instalar paquetes  `npm install`
 
 Para iniciar el programa `npm run dev`
+
+Se abrirá en `http://localhost:5000`
 
 # Llamadas
 
